@@ -31,7 +31,7 @@ See [Klipper-Toolchanger](https://github.com/viesturz/klipper-toolchanger/) for 
 Some of next directions this is going, in no particular order
 
 * [WIP] CPAP support
-* Get to 1000+ toolcahanges without fail
+* Get to 1000+ toolchanges without fail
 * Beacon probe support
 
 ### Contributing
