@@ -139,7 +139,7 @@ Full PTFE tube channel for HGX - better for flexibles.
 
 Assembly is quite repeatable now.
 
-Printing reasonably stable now, hundreads of toolchanges but still expect some warts.
+Printing reasonably stable now, hundreads of toolchanges, but still expect some warts.
 
 ![Pogo pins](./Images/Pins.jpg)
 
