@@ -1,6 +1,6 @@
 # What is this?
 
-A minimalistic 3d printer toolhead design, build from ground up for tool changing and primarily the Voron Family of printers.
+A minimalistic 3d printer toolhead design, built from ground up for tool changing and primarily the Voron Family of printers.
 Inspired by [Tapchanger](https://github.com/viesturz/tapchanger) and [Stealthchanger](https://github.com/DraftShift/StealthChanger). But not getting into  [PitStop](https://mihaidesigns.com/pitstop3/) territory yet.
 
 ![Preview](./Images/Main.jpg)
